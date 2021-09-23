@@ -1,2 +1,2 @@
 # Sidewalk-Ballet
-Photos
+Photos of COVID Data of interviewee's neighborhood
