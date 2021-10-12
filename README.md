@@ -1,2 +1,2 @@
 # Sidewalk-Ballet
-Photos
+Photos generated for the Sidewalk Ballet Project
